@@ -1,1 +1,3 @@
 # sesion7-tarea-grupo
+Curso GitHub - Sesión 7 - Tarea grupal
+### En grupos de 4 ...
